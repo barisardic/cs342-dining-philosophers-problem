@@ -1,1 +1,1 @@
-# solution of dining philospers problem developped in C using a Ubuntu virtual machine for cs342 course. The added report explains the project further.
+# Solution for the dining philospers problem developped in C using an Ubuntu virtual machine for the cs342 course. Report explains the project further.
